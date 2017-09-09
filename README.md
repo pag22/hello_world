@@ -1,2 +1,2 @@
 # hello_world
-intro
+Hi, this is my first entry on github
